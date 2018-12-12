@@ -1,0 +1,13 @@
+C:\Users\Tyler\source\repos\TJFP\TJFP\bin\Debug\TJFP.exe.config
+C:\Users\Tyler\source\repos\TJFP\TJFP\bin\Debug\TJFP.exe
+C:\Users\Tyler\source\repos\TJFP\TJFP\bin\Debug\TJFP.pdb
+C:\Users\Tyler\source\repos\TJFP\TJFP\obj\Debug\TJFP.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\source\repos\TJFP\TJFP\obj\Debug\TJFP.Form1.resources
+C:\Users\Tyler\source\repos\TJFP\TJFP\obj\Debug\TJFP.Properties.Resources.resources
+C:\Users\Tyler\source\repos\TJFP\TJFP\obj\Debug\TJFP.csproj.GenerateResource.cache
+C:\Users\Tyler\source\repos\TJFP\TJFP\obj\Debug\TJFP.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\source\repos\TJFP\TJFP\obj\Debug\TJFP.exe
+C:\Users\Tyler\source\repos\TJFP\TJFP\obj\Debug\TJFP.pdb
+C:\Users\Tyler\source\repos\TJFP\TJFP\obj\Debug\TJFP.Form2.resources
+C:\Users\Tyler\source\repos\TJFP\TJFP\obj\Debug\TJFP.Form3.resources
+C:\Users\Tyler\source\repos\TJFP\TJFP\obj\Debug\TJFP.Form4.resources
